@@ -1,2 +1,2 @@
-# GalaxySlicer_Deps_Archive
+# GalaxySlicer_deps
 Dependencies for GalaxySlicer
